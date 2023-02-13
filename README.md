@@ -4,4 +4,4 @@ A programming language interpreter for a simple language that follows the follow
 
 ### How to run
 Download and build the /src folder
-Run ./a.out <filename> where filename is your code
+Run ./a.out filename where filename is your code
