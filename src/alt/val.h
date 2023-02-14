@@ -1,6 +1,3 @@
-/*
-* val.h
-*/
 #ifndef VAL_H
 #define VAL_H
 

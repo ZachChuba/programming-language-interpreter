@@ -1,7 +1,5 @@
 /*
  * lex.cpp
- *
- * CS280 - Fall 2019
  */
 
 #include <cctype>
